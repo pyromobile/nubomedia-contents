@@ -1,0 +1,16 @@
+{
+  "id":"01_rdo",
+  "title":"Goldilocks",
+  "cover":"",
+  "langs":{
+    "de":{
+      "title":"Goldlˆckchen"
+    },
+    "en":{
+      "title":"Goldilocks"
+    },
+    "es":{
+      "title":"Ricitos de Oro"
+    }
+  }
+}
